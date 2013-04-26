@@ -1,6 +1,6 @@
 # Hey Rails developers!
 
-Julian Giuca [@juliangiuca](https://github.com/juliangiuca) and Andrew Bloomgarden [@aughr](https://github.com/aughr) spoke at RailsConf 2013 about how New Relic upgraded to Rails 3 on master. These files were extracted from that work to help you make that same move.
+Julian Giuca ([@juliangiuca](https://github.com/juliangiuca)) and Andrew Bloomgarden ([@aughr](https://github.com/aughr)) spoke at RailsConf 2013 about how New Relic upgraded to Rails 3 on master. These files were extracted from that work to help you make that same move.
 
 As soon as the talk video is out, we'll link it here. In the meantime, here are
 the slides.
